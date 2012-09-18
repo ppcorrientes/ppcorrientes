@@ -247,6 +247,7 @@ $app_name = idx($app_info, 'name', '');
         <div class="fb-login-button" data-scope="user_likes,user_photos"></div>
       </div>
       <div><h2>Esto es una aplicación hecha en <strong>Heroku</strong> donde más</h2></div>
+      <h1>Esto es otro ejemplo</h1>
       <?php } ?>
     </header>
 
